@@ -1,0 +1,18 @@
+
+header {
+	/*Strictly Necessary */
+	position: relative;
+	width: 100%;	
+	height: 50px; /*Adjust the hight to your purposes*/
+	
+	/*Aesthetics*/
+	background: lightSalmon;
+	/*border-radius: 7px;*/
+}
+.logout{
+	float:right;
+}
+footer {
+	/*Strictly Necessary */
+	position: relative;
+}
